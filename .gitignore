@@ -1,0 +1,6 @@
+__pycache__
+*.rst
+build
+dist
+*.egg-info
+README
